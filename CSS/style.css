@@ -1,0 +1,43 @@
+body {
+     padding-top: 40px;
+     padding-left: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#celcius {
+    width: 300px;
+    height: 40px;
+}
+
+.celcius-container {
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 600px;
+    height: 150px;
+    border-radius: 6px;
+    background: aliceblue;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#fahrenheit {
+    width: 300px;
+    height: 40px;
+}
+
+.Faren-container {
+    margin-top: 10px;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 600px;
+    height: 130px;
+    border-radius: 6px;
+    background: floralwhite;
+}
